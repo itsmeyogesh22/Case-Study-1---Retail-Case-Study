@@ -1,1 +1,19 @@
+# Python source files
 
+.py linguist-language=Python
+
+# Jupyter Notebook files
+
+.ipynb linguist-language=Jupyter Notebook
+
+# CSV files (commonly used for data analysis in Pandas)
+
+.csv linguist-detectable=true
+
+# JSON files
+
+.json linguist-detectable=true
+
+# Readme files
+
+.md linguist-detectable=true
