@@ -2,6 +2,8 @@
 
 .py linguist-language=Python
 
+.py linguist-detectable=true
+
 # Jupyter Notebook files
 
 .ipynb linguist-language=Jupyter Notebook
